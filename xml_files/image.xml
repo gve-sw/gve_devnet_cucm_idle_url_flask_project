@@ -1,0 +1,7 @@
+<CiscoIPPhoneImageFile>
+ <Title></Title>
+ <Prompt></Prompt>
+ <LocationX>0</LocationX>
+ <LocationY>0</LocationY>
+ <URL>http://127.0.0.1:5000/image</URL>
+</CiscoIPPhoneImageFile>
